@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/singel_mo_items"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#716cc6"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image_view_mainScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
+        android:background="#96a9e1"
+        android:focusable="false"
+        android:scaleType="centerCrop" />
+</LinearLayout>

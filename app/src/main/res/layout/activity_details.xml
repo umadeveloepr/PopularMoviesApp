@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/equalD"
+    android:background="#5e73e6">
+
+    <FrameLayout
+        android:id="@+id/Detalis_frame_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#7468e7" />
+</LinearLayout>
